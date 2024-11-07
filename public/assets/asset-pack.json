@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/bg_winter_trees_2@2x.png",
+                "type": "image",
+                "key": "bg_winter_trees_2@2x"
+            },
+            {
+                "url": "assets/block_ground_00_single.png",
+                "type": "image",
+                "key": "block_ground_00_single"
+            },
+            {
+                "url": "assets/FufuSuperDino.png",
+                "type": "image",
+                "key": "FufuSuperDino"
+            },
+            {
+                "url": "assets/penguin_walk01.png",
+                "type": "image",
+                "key": "penguin_walk01"
+            },
+            {
+                "url": "assets/penguin_walk01@2x.png",
+                "type": "image",
+                "key": "penguin_walk01@2x"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
